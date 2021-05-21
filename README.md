@@ -4,6 +4,9 @@
 </p>
 
 ## Welcome!
+
+View the demo here: https://youtu.be/je93LHo8KPA
+
 This is a Java based graphing calculator. It can handle polynomials, sine, cosine, tangent, logarithmic, and natural log type functions. It finds the first and second derivatives and the critical points.
 ## Contributors
 - Christopher Suh ([@chrisTheSE](https://github.com/chrisTheSE))
