@@ -4,10 +4,7 @@
 </p>
 
 ## Welcome!
-This project is currently in ALPHA. Please refrain from using this project (or any of it's functions) in a production environment.
-
-If you do, this program should be used **at your own risk**!
-
+This is a Java based graphing calculator. It can handle polynomials, sine, cosine, tangent, logarithmic, natural log type functions. It finds the first and second derivatives and the critical points.
 ## Contributors
 - Christopher Suh ([@chrisTheSE](https://github.com/chrisTheSE))
 - Aaron Hong ([@doghouch](https:/github.com/doghouch))
